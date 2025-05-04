@@ -175,3 +175,49 @@ li {
   margin-top: -30px;
   font-weight: 900;
 }
+
+.content-3 {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.sign-up {
+  background-color: #3582f6;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 60%;
+  padding: 40px 50px;
+  border-radius: 7px;
+}
+
+.bl {
+  color: #f9faf8;
+  margin-left: 50px;
+}
+
+.br {
+  margin-right: 50px;
+}
+
+.sign-up-button {
+  background-color: #3582f6;
+  border: 2px solid #f9faf8;
+  border-radius: 4px;
+  padding: 6px 14px;
+  color: #f9f9f8;
+  font-weight: 700;
+}
+
+.footer {
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
